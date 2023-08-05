@@ -1,0 +1,4 @@
+Command to install Library
+sudo apt update
+sudo apt install python-pymodbus
+pip install opencv-python
